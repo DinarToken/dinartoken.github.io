@@ -8,7 +8,7 @@ ORG_LOGO="https://dinartoken.top/logo/720x720.png"
 [[CURRENCIES]] 
 name="Dinar Token" 
 code="DINAR" 
-desc="Dinar Token (Ticker : DINAR) brings real Dinar coin into blockchain. Every DINAR equivalent with 4.25 grams of real physical gold. The purity of gold is 99.99999% or 24 carat." 
+desc="Dinar Token (Asset Code : DINAR) brings real Dinar coin into blockchain. Every DINAR equivalent with 4.25 grams of real physical gold. The purity of gold is 99.99999% or 24 carat." 
 conditions="Buy DINAR to save your assets over blockchain for medium and long term investments." 
 issuer="GA3MPEPAUFFLBRP4DTTGTK76ZVQYZOBXOSJD7S4VBIYSU7BL3OKDINAR" 
 display_decimals=7 
