@@ -1,4 +1,4 @@
-FEDERATION_SERVER="https://api.stellar.org/federation/" 
+FEDERATION_SERVER="https://api.stellar.org/federation" 
 
 ACCOUNTS=[ 
 "GA3MPEPAUFFLBRP4DTTGTK76ZVQYZOBXOSJD7S4VBIYSU7BL3OKDINAR",
