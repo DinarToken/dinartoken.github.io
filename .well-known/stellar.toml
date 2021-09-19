@@ -1,5 +1,10 @@
 FEDERATION_SERVER="https://api.stellar.org/federation/" 
 
+[DOCUMENTATION] 
+ORG_NAME="Dinar Token" 
+ORG_URL="https://dinartoken.top" 
+ORG_LOGO="https://dinartoken.top/logo/720x720.png"
+
 [[CURRENCIES]] 
 name="Dinar Token" 
 code="DINAR" 
