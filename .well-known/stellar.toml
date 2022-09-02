@@ -12,7 +12,7 @@ ACCOUNTS=[
 [DOCUMENTATION] 
 ORG_NAME="Dinar Token" 
 ORG_URL="https://dinartoken.top" 
-ORG_LOGO="https://dinartoken.top/logo/720x720.png"
+ORG_LOGO="https://dinartoken.top/logo.png"
 
 [[CURRENCIES]] 
 name="Dinar Token" 
@@ -21,4 +21,4 @@ desc="Dinar Token (Asset Code : DINAR) brings real Dinar coin into blockchain. E
 conditions="Buy DINAR to save your assets over blockchain for medium and long term investments." 
 issuer="GA3MPEPAUFFLBRP4DTTGTK76ZVQYZOBXOSJD7S4VBIYSU7BL3OKDINAR" 
 display_decimals=7 
-image="https://dinartoken.top/logo/64x64.svg"
+image="https://dinartoken.top/logo.png"
