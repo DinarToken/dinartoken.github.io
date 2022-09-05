@@ -1,14 +1,5 @@
 FEDERATION_SERVER="https://api.stellar.org/federation" 
 
-ACCOUNTS=[ 
-"GA3MPEPAUFFLBRP4DTTGTK76ZVQYZOBXOSJD7S4VBIYSU7BL3OKDINAR",
-"GCRZJ6GINSQVAAHLB4W5VX553M7IFAJN6NF2KDNYAEUXZTEEUXIDINAR",
-"GDSHD4XCYJTU6TKWYPQZBOTLKGE3FBWD6DJO7CP3BZGKISYSQRUDINAR",
-"GBXPYBODC43YKO6RBMQERH7JUOJWQB3HQKEJL53DWZVCSGLUQQ5DINAR",
-"GBKCMBJYHLPU63JFJAVNE633VJZJVAXWHXXJCQMO4YNGHX55NNEDINAR",
-"GCHDPIYUYHZVNLSBCOXIKUM72CABMFAHCGC25KFKLCHYUAIMRVCDINAR"
-]
-
 [DOCUMENTATION] 
 ORG_NAME="Dinar Token" 
 ORG_URL="https://dinar.toml.host" 
@@ -18,7 +9,7 @@ ORG_LOGO="https://dinar.toml.host/logo.png"
 name="Dinar Token" 
 code="DINAR" 
 desc="Dinar Token (Asset Code : DINAR) brings real Dinar coin into blockchain. Every DINAR equivalent with 4.25 grams of real physical gold. The purity of gold is 99.99999% or 24 carat." 
-conditions="Buy DINAR to save your assets over blockchain for medium and long term investments." 
+conditions="Buy DINAR to save your assets over blockchain for medium and long term investments and get 2.5% monthly yields for 10 years." 
 issuer="GA3MPEPAUFFLBRP4DTTGTK76ZVQYZOBXOSJD7S4VBIYSU7BL3OKDINAR" 
 display_decimals=7 
 image="https://dinar.toml.host/logo.png"
